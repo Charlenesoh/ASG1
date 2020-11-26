@@ -67,7 +67,8 @@ h3 {
     float: left;
     width: 50%;
     padding: 10px;
-    height: 200px; 
+    height: 200px;
+    text-align: center; 
   }
   
  
@@ -75,21 +76,26 @@ h3 {
     content: "";
     display: table;
     clear: both;
+    text-align: center;
   }
 
+.ERC {
+    text-align: center;
+}
   .links{
     border-style: solid;
     padding: 2%;
     border: 5px;
-    font-size: 15px;
+    font-size: 20px;
     background-color: rgb(247, 210, 234);
     text-align: center;
   }
 .contact {
     
-    color: rgb(252, 189, 252);
+    color: rgb(245, 202, 245);
     justify-content: center;
-    font-size: 40px;
+    font-size: 15px;
     text-align: center;
-    border-radius: 10%;
-    background-color: rgb(212, 229, 243);
+    border-radius: 80%;
+    background-color: rgb(52, 40, 163);
+}
