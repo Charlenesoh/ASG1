@@ -5,9 +5,7 @@ For ID assignment 1
 Readme template for interactive development module
 # Aignment 1 Interative Development : Personal Portfolio 
 
-One or two paragraphs providing an overview of your project. Tell us about your project.
-
-Essentially, this part is your sales pitch.
+This Website is a personal portfolio , it mainly presents my personal life to employers. I have 3 pages in total, A mainpage , Resume page and    
 
 ## Design Process
 
