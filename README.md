@@ -7,6 +7,7 @@ Readme template for interactive development module
 
 This Website is a personal portfolio , it mainly presents my personal life to employers. I have 3 pages in total, A mainpage , Resume page and Artwork
 
+
 ## Design Process
 
 Provide us insights about your design process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.

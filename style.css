@@ -236,25 +236,25 @@ template {
 
 
 
-header h2 {
+header h2 {        /* All titles of the three html pages */
    font-size: 40px; 
    text-align: center;
 
 }
 
-body {
+body {              /* Main background design */
     background-color: rgb(229, 218, 255);
 }
 
 .int{
-  position: relative;
+  position: relative;                /* Styling of positions for photo and text in main page */
   width: 80%;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
 }
 
-.int.img {
+.int.img {                           /* Styling of positions for photo in main page */
   display: flex;
   margin-left: auto;
   margin-right: auto;
@@ -262,7 +262,7 @@ body {
   height: auto;
 }
 
-.overlay {
+.overlay {                          /* Styling for photo and text in main page for overlapping */
   position: absolute;
   top: 0;
   bottom: 0;
@@ -276,11 +276,11 @@ body {
   
 }
 
-.int:hover .overlay {
+.int:hover .overlay {           /* Styling for photo and image in main page for hover over effect */
   opacity: 1;
 }
 
-.intro {
+.intro {                        /* Styling for text in the overlays */
   color: rgb(0, 0, 0);
   font-size: 20px;
   position: absolute;
@@ -292,12 +292,12 @@ body {
   text-align: center;
 }
 
-*{
+*{                          /* Styling for navigation bar ontop */
     margin: 0;
     padding: 0;
 }
 
-nav{
+nav{                          /* Styling for navigation bar ontop */
     width: 100%;
     height: 60px;
     background-color: #fca8a8;
@@ -305,15 +305,15 @@ nav{
     padding: 0;
 }
 
-nav ul{
+nav ul{                    /* Styling for navigation bar ontop */
     float: left;
 }
-nav ul li{
-    float: left;
+nav ul li{                 /* Styling for navigation bar ontop */
+    float: left; 
     list-style: none;
     position: relative;
 }
-nav ul li a{
+nav ul li a{                   /* Styling for navigation bar ontop */
     display:block;
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(255, 255, 255);
@@ -322,18 +322,18 @@ nav ul li a{
     text-decoration: none;
 }
 
-nav a:hover {
+nav a:hover {                  /* Styling for navigation bar ontop for hover effect*/
     background-color: rgb(182, 241, 239);
     color: rgb(179, 125, 250);
   }
 
-body ul{
+body ul{                      /* Styling for navigation bar ontop */
     list-style-type: none;
     display: flex;
     justify-content: space-around;
 }
 
-h3 {
+h3 {                      /* Styling for Specific Resume titles */
     font-size: 30px;
 }
  
@@ -342,7 +342,7 @@ h3 {
   }
   
  
-  .column {
+  .column {             /* Styling for Resume paragraphs */
     float: left;
     width: 50%;
     padding: 10px;
@@ -353,7 +353,7 @@ h3 {
   }
   
  
-  .row:after {
+  .row:after {         /* Styling for Resume paragraphs */
     content: "";
     display: table;
     clear: both;
@@ -361,13 +361,13 @@ h3 {
     font-family: 'Montserrat', 'Noto Serif KR' , 'Arial' sans-serif;
   }
 
-  .row {
+  .row {               /* Styling for Resume flexboxes */
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
   }
   
-  .row > div {
+  .row > div {              /* Styling for Resume flexboxes */
     width: 400px;
     margin: 20px;
     text-align: center;
@@ -375,7 +375,7 @@ h3 {
     justify-content: space-around;
   }
 
-  .links{
+  .links{                   /* Styling for links to other websites in Main page */
     border-style: solid;
     padding: 2%;
     border: 5px;
@@ -383,7 +383,7 @@ h3 {
     background-color: rgb(247, 210, 234);
     text-align: center;
   }
-.contact {
+.contact {              /* Styling for contact me in main page */
     
     color: rgb(245, 202, 245);
     margin : 5px;
@@ -399,7 +399,7 @@ h3 {
     box-sizing: border-box;
   }
   
-  .imgbox {
+  .imgbox {                 /* Styling for images refrences in photo.html to be side by side */  
     float: left;
     width: 50%;
     padding: 10px;
@@ -409,7 +409,7 @@ h3 {
     
   }
   
-  .imgs::after {
+  .imgs::after {           /* Styling for images refrences in photo.html */
     content: "";
     clear: both;
     display: table;
@@ -417,14 +417,14 @@ h3 {
     
   }
 
-  img{
+  img{                     /* Styling for boarder images refrences in photo.html */
     border: 5px solid rgb(254, 255, 211);
   }
 
 
 
 
-@media screen and (max-width: 600px){
+@media screen and (max-width: 600px){         /* media queries for the whole assignment */
 
     body{
         justify-content: space-around;
