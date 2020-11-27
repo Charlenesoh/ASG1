@@ -5,7 +5,7 @@ For ID assignment 1
 Readme template for interactive development module
 # Aignment 1 Interative Development : Personal Portfolio 
 
-This Website is a personal portfolio , it mainly presents my personal life to employers. I have 3 pages in total, A mainpage , Resume page and    
+This Website is a personal portfolio , it mainly presents my personal life to employers. I have 3 pages in total, A mainpage , Resume page and Artwork
 
 ## Design Process
 
