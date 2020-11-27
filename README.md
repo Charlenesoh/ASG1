@@ -12,9 +12,17 @@ This Website is a personal portfolio , it mainly presents my personal life to em
 
 This personal portfolio is mainly more suitable for emplloyers who are finding for employees that has a sports background and highly achieved in the sports world or any art designers that are intrested in the type of style i do or a physical artefact/object maker for new prototype testings or item creations. I would be suitable. The different certificates in the Resume would let them see even clearer on what i have done/achieved before, this furthers gives them a clear idea on what i do in my past lives and gives a rough direction on whether they want to consider on signing me up in a contract in their company or not. As a digital/physical designer, i would want to create objects/items that helps to boost people in thier lives or create designs and drawings that further boost peoples lives in either a physically way or a mentally way. 
 
-### This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. 
-These files should themselves either be included as a pdf file in the project itself (in an separate directory)
-Include the Adobe XD wireframe as a folder. You can include the XD share url. ###
+Wireframe links : 
+
+desktop :
+https://xd.adobe.com/view/9f7d2954-cf97-42e0-b29a-e80563cd44c6-ca2e/
+https://xd.adobe.com/view/906d5820-5034-4b83-8df5-0d9d481d91dc-c53e/
+https://xd.adobe.com/view/9dbe67a7-5f34-4d52-b31e-c127b5377141-c8ed/
+
+Phone :
+https://xd.adobe.com/view/bdfe664b-99b9-4fbb-9dec-91a6be4c3b04-e8ad/
+https://xd.adobe.com/view/ac22ca5d-74b7-492f-a7e2-429c31fd8ab0-f971/
+https://xd.adobe.com/view/e0fbf544-dac9-4fdb-b087-8d8936d61aa1-b5a8/
 
 
 ## Features
